@@ -6,3 +6,4 @@ The main goal is to train a Convolutional Neural Network, VGG19 in this case, to
 
 I uploaded train, test and real time test code. The comments are in spanish, I am sorry. Nonetheless, the code is very easy if you already know something about Keras, Python and OpenCV. 
 
+The dataset I used to train the CNN is called FaceMaskDetection Dataset from Kaggle (https://www.kaggle.com/omkargurav/face-mask-dataset). 
