@@ -8,3 +8,4 @@ I uploaded train, test and real time test code. The comments are in spanish, I a
 
 The dataset I used to train the CNN is called FaceMaskDetection Dataset from Kaggle (https://www.kaggle.com/omkargurav/face-mask-dataset). I don't know the url to download the OpenCV's face detector, but there are like three or four different face detectors both in OpenCV and Dlib library, maybe Dlib's face detector is a better option.
 
+In this directory, you can also find a kind of summary of the project, it is also written in spanish, and two images to see how the training went. 
